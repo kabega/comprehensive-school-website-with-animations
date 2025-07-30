@@ -1,0 +1,30 @@
+src/
+├── main.jsx
+├── App.jsx
+├── index.css
+├── components/
+│   ├── Navbar.jsx
+│   ├── Footer.jsx
+│   ├── Hero.jsx
+│   ├── SectionHeader.jsx
+│   ├── AboutSection.jsx
+│   ├── ProgramsSection.jsx
+│   ├── ProgramCard.jsx
+│   ├── AdmissionSection.jsx
+│   ├── GallerySection.jsx
+│   └── ContactSection.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── About.jsx
+│   ├── Programs.jsx
+│   ├── Admission.jsx
+│   ├── Gallery.jsx
+│   └── Contact.jsx
+public/
+├── hero.jpg
+├── about.jpg
+├── program-infant.jpg
+├── ...
+├── gallery-1.jpg ... gallery-6.jpg
+├── BH-Montessori-Application.pdf
+
